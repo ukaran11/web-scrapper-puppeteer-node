@@ -1,0 +1,19 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "A simple web scrapper using puppeteer and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ukaran11/web-scrapper-puppeteer-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukaran11/web-scrapper-puppeteer-node/issues"
+  },
+  "homepage": "https://github.com/ukaran11/web-scrapper-puppeteer-node#readme"
+}
